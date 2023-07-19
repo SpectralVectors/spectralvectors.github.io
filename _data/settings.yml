@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Rob <br> Creative Pipeline Problem Solver
+  hero-title: Hi! I’m <br> Rob <br> Blender Python Sound
 
 social:
   - { icon: "ti-mastodon", link: "#" }
