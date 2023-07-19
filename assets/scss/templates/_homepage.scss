@@ -9,9 +9,7 @@
   width: 100%;
   height: 100%;
 
-  &::before {
-    background-color: rgba(0, 0, 0, .9);
-  },
+  &::before,
   &::after {
     content: "";
     position: absolute;
