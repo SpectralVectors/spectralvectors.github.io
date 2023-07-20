@@ -33,7 +33,7 @@
 
 .btn-primary {
   background: $primary-color;
-  color: $white;
+  color: $gray;
 
   &:active {
     background: lighten($color: $primary-color, $amount: 10) !important;
@@ -58,6 +58,6 @@
 
   &:active,
   &:hover {
-    color: $primary-color;
+    color: $gray;
   }
 }
