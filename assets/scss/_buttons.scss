@@ -40,12 +40,12 @@
   }
 
   &:hover {
-    background: lighten($color: $text-color, $amount: 10);
+    background: lighten($color: $gray, $amount: 10);
   }
 
   &.focus,
   &.active {
-    background: lighten($color: $text-color, $amount: 10) !important;
+    background: lighten($color: $white, $amount: 10) !important;
     box-shadow: none !important;
   }
 }
