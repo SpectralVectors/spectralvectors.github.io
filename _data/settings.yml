@@ -5,10 +5,10 @@
 title: SpectralVectors
 logo: "/assets/images/favicon.png"
 author: themefisher
-description: this is meta description
+description: Portfolio for Spectral Vectors
 email: steve.fruits@email.com
 phone: +880 2544 658 256
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com), Adapted 2023 by SpectralVectors
 
 menu:
   - { name: About, link: "/about" }
@@ -34,21 +34,21 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Rob <br> Blender Python Sound
+  hero-title: Hi! I’m Rob <br> I work with <br> Blender Python Sound
 
 social:
   - { icon: "ti-mastodon", link: "#" }
-  - { icon: "ti-github", link: "#" }
-  - { icon: "ti-youtube", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/SpectralVectors/" }
+  - { icon: "ti-youtube", link: "https://www.youtube.com/channel/UCuvdcUeZVGV9avb5Io7gfxw" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: An award winning composer and sound designer, an audio editor with experience in the fast paced worlds of broadcast TV and podcast production, an open source Python developer, a 3D modeller and animator, a software specialist, a circuit designer, a microcontroller programmer, an instructor.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: More Details
 
 # About Page
 
