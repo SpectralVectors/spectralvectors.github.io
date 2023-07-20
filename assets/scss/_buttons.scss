@@ -33,19 +33,19 @@
 
 .btn-primary {
   background: $primary-color;
-  color: $gray;
+  color: $text-color;
 
   &:active {
-    background: lighten($color: $gray, $amount: 10) !important;
+    background: lighten($color: $text-color, $amount: 10) !important;
   }
 
   &:hover {
-    background: lighten($color: $gray, $amount: 10);
+    background: lighten($color: $text-color, $amount: 10);
   }
 
   &.focus,
   &.active {
-    background: lighten($color: $gray, $amount: 10) !important;
+    background: lighten($color: $text-color, $amount: 10) !important;
     box-shadow: none !important;
   }
 }
@@ -53,11 +53,11 @@
 
 .btn-transparent {
   background: transparent;
-  color: $gray;
+  color: $text-color;
   font-weight: bold;
 
   &:active,
   &:hover {
-    color: $gray;
+    color: $text-color;
   }
 }
