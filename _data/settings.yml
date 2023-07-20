@@ -37,7 +37,7 @@ hero:
   hero-title: Hi! I’m Rob <br> I work with <br> Blender Python Sound
 
 social:
-  - { icon: "ti-mastodon", link: "#" }
+  - { icon: "ti-themify-favicon", link: "https://mastodon.art/@spectralvectors" }
   - { icon: "ti-github", link: "https://github.com/SpectralVectors/" }
   - { icon: "ti-youtube", link: "https://www.youtube.com/channel/UCuvdcUeZVGV9avb5Io7gfxw" }
 
