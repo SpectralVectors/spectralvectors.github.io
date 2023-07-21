@@ -148,9 +148,9 @@ services:
       active: true, 
     }
   - {
-      name: 3D Design & Animation,
+      name: 3D Design,
       icon: ti-game,
-      description: "Specializing in stylized 3D animation, with skills in Motion Graphics and ArchVis",
+      description: "Specializing in stylized 3D animation, with skills in Motion Graphics, ArchVis and Game Design in Blender, Unreal Engine and Godot",
       active: true,
     }
 
