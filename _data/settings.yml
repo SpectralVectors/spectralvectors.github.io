@@ -12,7 +12,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About Me, link: "/about" }
-  - { name: Portfolio, link: "/portfolio" }
+  - { name: My Portfolio, link: "/portfolio" }
 
 #-------------------------------
 # Google Analytics Section
