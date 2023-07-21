@@ -12,6 +12,7 @@ body {
 p, .paragraph {
   font-weight: 400;
   color: $text-color;
+  text-shadow: 2px 2px black;
   font-size: 15px;
   line-height: 1.8;
   font-family: $primary-font;
