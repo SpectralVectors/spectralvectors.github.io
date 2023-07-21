@@ -11,9 +11,8 @@ phone: +880 2544 658 256
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com), Adapted 2023 by SpectralVectors
 
 menu:
-  - { name: About, link: "/about" }
+  - { name: About Me, link: "/about" }
   - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
