@@ -200,7 +200,7 @@ a:hover {
 
 /* icon */
 .icon {
-  font-size: 90px;
+  font-size: 45px;
 }
 
 .icon-bg {
@@ -225,7 +225,7 @@ a:hover {
     margin: 2px;
     &.slick-active{
       button{
-        background: $white;
+        background: $text-color;
         width: 25px;
       }
     }
