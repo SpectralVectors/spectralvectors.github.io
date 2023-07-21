@@ -36,7 +36,7 @@
   color: $text-color;
 
   &:active {
-    background: lighten($color: $primary-color, $amount: 10) !important;
+    background: lighten($color: $gray, $amount: 10) !important;
   }
 
   &:hover {
@@ -45,7 +45,7 @@
 
   &.focus,
   &.active {
-    background: lighten($color: $primary-color, $amount: 10) !important;
+    background: lighten($color: $gray, $amount: 10) !important;
     box-shadow: none !important;
   }
 }
@@ -58,6 +58,6 @@
 
   &:active,
   &:hover {
-    color: $primary-color;
+    color: $gray;
   }
 }
