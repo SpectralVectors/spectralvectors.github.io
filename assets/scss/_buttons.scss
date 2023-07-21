@@ -40,7 +40,7 @@
   }
 
   &:hover {
-    background: lighten($color: $gray, $amount: 10);
+    background: lighten($color: $text-color, $amount: 10);
   }
 
   &.focus,
