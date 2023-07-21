@@ -33,7 +33,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m Rob <br> I work with <br> Blender Python Sound
+  hero-title: Hi! I’m Rob, I work with <br> Blender 3D <br> Python Code <br> Sound & Music
 
 social:
   - { icon: "ti-themify-favicon", link: "https://mastodon.art/@spectralvectors" }
@@ -103,7 +103,7 @@ experience:
   - {
       name: Software Specialist,
       icon: "icon-2.png",
-      date: "Jan 20239 - July 2023",
+      date: "Jan 2023 - July 2023",
       organization: "Skyline Living",
     }
   - {
@@ -126,7 +126,7 @@ education:
   - {
       name: Bachelor in English,
       date: "2006",
-      organization: "Western University",
+      organization: "University of Western Ontario",
     }
 
 #-------------------------------
@@ -149,7 +149,7 @@ services:
   - {
       name: 3D Design,
       icon: ti-game,
-      description: "Specializing in stylized 3D animation, with skills in Motion Graphics, ArchVis and Game Design in Blender, Unreal Engine and Godot",
+      description: "Stylized 3D animation, Motion Graphics, ArchVis, Game Assets and Design in Blender, Unreal Engine and Godot",
       active: true,
     }
 
