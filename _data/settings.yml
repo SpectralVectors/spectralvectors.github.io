@@ -252,34 +252,25 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/CTV_Logo_small.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Food_Network_Logo_small.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/HGTV_Logo_small.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/History_Logo_small.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Space_Logo_small.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/Citytv_Logo_small.png"
     url: "#"
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "#"
 
 #-------------------------------
