@@ -136,22 +136,22 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true,# Add true to select section
+      name: Audio Services,
+      icon: ti-volume,
+      description: "Music, Sound Design, SFX, Mixing, Broadcast, Internet and Game Audio",
+      active: true,
     }
   - {
-      name: UX Design,
+      name: Pipeline Tools,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
+      description: "Python Scripts, Addons and App Extensions to facilitate faster workflows, Templates and Tutorials",
+      active: true, 
     }
   - {
-      name: Interaction Design,
+      name: 3D Design & Animation,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true,# Add true to select section
+      description: "Specializing in stylized 3D animation, with skills in Motion Graphics and ArchVis",
+      active: true,
     }
 
 #-------------------------------
@@ -176,31 +176,31 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Audio Services", type: "audio" }
+  - { title: "Pipeline Tools", type: "pipeline" }
+  - { title: "3D Design", type: "3d" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "audio"
+      - type: "pipeline"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "3d"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "pipeline"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "audio"
       - type: "branding"
 
   - image: "assets/images/portfolio/item-8.png"
@@ -211,24 +211,24 @@ portfolio-items:
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "audio"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "3d"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "audio"
+      - type: "pipeline"
+      - type: "3d"
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "pipeline"
 
 #-------------------------------
 # Testimonials Section
