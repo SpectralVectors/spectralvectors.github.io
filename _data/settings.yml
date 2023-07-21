@@ -135,7 +135,7 @@ education:
 services-title: Services
 services:
   - {
-      name: Audio Services,
+      name: Audio,
       icon: ti-pulse,
       description: "Music, Sound Design, SFX, Mixing, Broadcast, Internet and Game Audio, Instructor of Audio Production, Music and Theory",
       active: true,
