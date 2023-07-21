@@ -5,14 +5,14 @@ body {
   line-height: 1.2;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
-  font-size: 24px;
+  font-size: 15px;
   color: $text-color;
 }
 
 p, .paragraph {
   font-weight: 400;
   color: $text-color;
-  font-size: 15px;
+  font-size: 24px;
   line-height: 1.8;
   font-family: $primary-font;
   &-lg{
