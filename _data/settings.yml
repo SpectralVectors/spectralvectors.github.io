@@ -138,13 +138,13 @@ services:
   - {
       name: Audio Services,
       icon: ti-pulse,
-      description: "Music, Sound Design, SFX, Mixing, Broadcast, Internet and Game Audio",
+      description: "Music, Sound Design, SFX, Mixing, Broadcast, Internet and Game Audio, Instructor of Audio Production, Music and Theory",
       active: true,
     }
   - {
       name: Pipeline Tools,
       icon: ti-plug,
-      description: "Python Scripts, Addons and App Extensions to facilitate faster workflows, Templates and Tutorials",
+      description: "Python Scripts, Addons and App Extensions to facilitate faster workflows, Templates and Tutorials for strong fundamentals",
       active: true, 
     }
   - {
