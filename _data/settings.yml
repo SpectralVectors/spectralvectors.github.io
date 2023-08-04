@@ -225,7 +225,7 @@ portfolio-items:
     portfolio-type:
       - type: "audio"
 
-  - image: "assets/images/portfolio/item-7.png"
+  - image: "assets/images/portfolio/BpySide6.png"
     url: "#"
     portfolio-type:
       - type: "pipeline"
