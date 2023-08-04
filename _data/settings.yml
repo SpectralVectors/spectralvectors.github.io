@@ -164,13 +164,13 @@ portfolio-home-items:
   - image: "assets/images/portfolio/MindmapperLogo.png"
     url: "#"
 
-  - image: "assets/images/portfolio/BlenderMacroBoardPCBPreview.png"
-    url: "#"
-
   - image: "assets/images/portfolio/GhibliGenerator.PNG"
     url: "#"
 
   - image: "assets/images/portfolio/PortableConsole.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/BlenderMacroBoardPCBPreview.png"
     url: "#"
 
 # Portfolio Page
