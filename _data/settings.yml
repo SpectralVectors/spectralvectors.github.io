@@ -172,6 +172,9 @@ portfolio-home-items:
 
   - image: "assets/images/portfolio/BikeHeist.png"
     url: "#"
+    
+  - image: "assets/images/portfolio/PosePipeScreenshot.png"
+    url: "#"
 
 # Portfolio Page
 portfolio-label:
