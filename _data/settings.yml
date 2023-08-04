@@ -167,10 +167,10 @@ portfolio-home-items:
   - image: "assets/images/portfolio/GhibliGenerator.PNG"
     url: "#"
 
-  - image: "assets/images/portfolio/PortableConsole.png"
+  - image: "assets/images/portfolio/AmazingRace.png"
     url: "#"
 
-  - image: "assets/images/portfolio/BlenderMacroBoardPCBPreview.png"
+  - image: "assets/images/portfolio/BikeHeist.png"
     url: "#"
 
 # Portfolio Page
@@ -215,17 +215,15 @@ portfolio-items:
       - type: "3d"
       - type: "pipeline"
 
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "3d"
-
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/AmazingRace.png"
     url: "#"
     portfolio-type:
       - type: "audio"
-      - type: "pipeline"
-      - type: "3d"
+
+  - image: "assets/images/portfolio/BikeHeist.png"
+    url: "#"
+    portfolio-type:
+      - type: "audio"
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
