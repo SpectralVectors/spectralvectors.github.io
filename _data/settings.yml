@@ -183,13 +183,14 @@ portfolio-items:
   - image: "assets/images/portfolio/RightMouseNavigationLogo.png"
     url: "#"
     portfolio-type:
-      - type: "audio"
+      - type: "3d"
       - type: "pipeline"
 
   - image: "assets/images/portfolio/MindmapperLogo.png"
     url: "#"
     portfolio-type:
       - type: "3d"
+      - type: "pipeline"
 
   - image: "assets/images/portfolio/BlenderMacroBoardPCBPreview.png"
     url: "#"
@@ -199,13 +200,14 @@ portfolio-items:
   - image: "assets/images/portfolio/GhibliGenerator.PNG"
     url: "#"
     portfolio-type:
-      - type: "audio"
-      - type: "branding"
+      - type: "3d"
+      - type: "pipeline"
 
   - image: "assets/images/portfolio/PortableConsole.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "3d"
+      - type: "pipeline"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
