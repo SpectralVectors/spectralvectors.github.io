@@ -209,10 +209,11 @@ portfolio-items:
       - type: "3d"
       - type: "pipeline"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/PosePipeScreenshot.png"
     url: "#"
     portfolio-type:
-      - type: "audio"
+      - type: "3d"
+      - type: "pipeline"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
