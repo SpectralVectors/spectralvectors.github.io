@@ -6,13 +6,13 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+A lifelong learner in both academic and informal settings I have acquired a broad skillset, including:
+- Python and Web development
+- Television, film and podcast production pipelines
+- IT and tech support across a broad range of devices, operating systems and user experience levels
+- Music composition, performance and instruction
+- 3D design, animation, CAD & CAM/CNC
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+I am eager to support open-source software: to break down the barriers that slow or prevent adoption, and facilitate logical workflows that are intuitive to the end user.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I am always ready to learn new skills, and look forward to sharing my knowledge with others, and learning from them, in turn.
