@@ -44,7 +44,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: I am an award winning composer and sound designer, an audio editor with experience in the fast paced worlds of broadcast TV and podcast production, an open source Python developer, a 3D modeller and animator, a software specialist, a circuit designer, a microcontroller programmer, an instructor.
+blurb: I am an an open source Python developer, an award winning composer and sound designer, an audio editor with experience in the fast paced worlds of broadcast TV and podcast production, a 3D modeller and animator, a software specialist, a circuit designer, a microcontroller programmer, an instructor.
 
 blurb-btn-link: "/about"
 blurb-btn-name: More Details
@@ -135,16 +135,16 @@ education:
 services-title: Services
 services:
   - {
+      name: Code,
+      icon: ti-plug,
+      description: "Python Scripts, Addons and App Extensions to facilitate faster workflows, Templates and Tutorials for strong fundamentals",
+      active: true, 
+    }
+  - {
       name: Audio,
       icon: ti-pulse,
       description: "Music, Sound Design, SFX, Mixing, Broadcast, Internet and Game Audio, Instructor of Audio Production, Music and Theory",
       active: true,
-    }
-  - {
-      name: Pipeline Tools,
-      icon: ti-plug,
-      description: "Python Scripts, Addons and App Extensions to facilitate faster workflows, Templates and Tutorials for strong fundamentals",
-      active: true, 
     }
   - {
       name: 3D Design,
@@ -179,7 +179,7 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
   - { title: "Audio Services", type: "audio" }
-  - { title: "Pipeline Tools", type: "pipeline" }
+  - { title: "Code", type: "pipeline" }
   - { title: "3D Design", type: "3d" }
 
 portfolio-items:
@@ -281,4 +281,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: robmuir1@gmail.com
