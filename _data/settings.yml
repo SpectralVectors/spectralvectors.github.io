@@ -6,9 +6,9 @@ title: SpectralVectors
 logo: "/assets/images/SpectralVectorsLogo64x64_t.png"
 author: themefisher
 description: Portfolio for Spectral Vectors
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com), Adapted 2023 by SpectralVectors
+email: robmuir1@gmail.com
+phone: -
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com), Adapted 2024 by SpectralVectors
 
 menu:
   - { name: About Me, link: "/about" }
@@ -33,7 +33,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m Rob, <br> I work with <br> Blender 3D, <br> Python, <br> Sound, <br> Music, <br> & Web Tools
+  hero-title: Hi! I’m Rob, <br> I work with <br> Python, <br> Blender 3D, <br> Sound, <br> Music, <br> & Web Tools
 
 social:
   - { icon: "ti-themify-favicon", link: "https://mastodon.art/@spectralvectors" }
